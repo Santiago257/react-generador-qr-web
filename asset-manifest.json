@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Santiago257/react-generador-qr-web/static/css/main.47a7e495.chunk.css",
+    "main.js": "/Santiago257/react-generador-qr-web/static/js/main.412e3db2.chunk.js",
+    "main.js.map": "/Santiago257/react-generador-qr-web/static/js/main.412e3db2.chunk.js.map",
+    "runtime-main.js": "/Santiago257/react-generador-qr-web/static/js/runtime-main.cc7660d0.js",
+    "runtime-main.js.map": "/Santiago257/react-generador-qr-web/static/js/runtime-main.cc7660d0.js.map",
+    "static/js/2.17fe3d59.chunk.js": "/Santiago257/react-generador-qr-web/static/js/2.17fe3d59.chunk.js",
+    "static/js/2.17fe3d59.chunk.js.map": "/Santiago257/react-generador-qr-web/static/js/2.17fe3d59.chunk.js.map",
+    "static/js/3.593356c2.chunk.js": "/Santiago257/react-generador-qr-web/static/js/3.593356c2.chunk.js",
+    "static/js/3.593356c2.chunk.js.map": "/Santiago257/react-generador-qr-web/static/js/3.593356c2.chunk.js.map",
+    "index.html": "/Santiago257/react-generador-qr-web/index.html",
+    "static/css/main.47a7e495.chunk.css.map": "/Santiago257/react-generador-qr-web/static/css/main.47a7e495.chunk.css.map",
+    "static/js/2.17fe3d59.chunk.js.LICENSE.txt": "/Santiago257/react-generador-qr-web/static/js/2.17fe3d59.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc7660d0.js",
+    "static/js/2.17fe3d59.chunk.js",
+    "static/css/main.47a7e495.chunk.css",
+    "static/js/main.412e3db2.chunk.js"
+  ]
+}
